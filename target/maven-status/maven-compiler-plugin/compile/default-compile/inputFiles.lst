@@ -1,0 +1,11 @@
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/model/Product.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/service/ProductRecommendationsService.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/serviceImpl/RankedProductsRecommendorImpl.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/user/UserSearch.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/service/ProductReviewsService.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/serviceImpl/RankedProductsRecommendor.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/exception/CustomException.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/constants/Constants.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/utilities/JSONProcessor.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/utilities/APIDataAccess.java
+/Users/h0d00bj/Downloads/WalmartProductRecommendator-master/src/main/java/com/myproject/productrecommendor/service/ProductSearchService.java

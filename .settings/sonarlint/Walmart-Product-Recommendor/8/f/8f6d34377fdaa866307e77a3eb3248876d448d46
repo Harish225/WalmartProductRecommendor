@@ -1,0 +1,25 @@
+
+^squid:S1192'"GDefine a constant instead of duplicating this literal "scheme" 4 times.(úØÊß
+^squid:S1192*"GDefine a constant instead of duplicating this literal "format" 5 times.(˜¬©
+]
+squid:S106R";Replace this usage of System.out or System.err by a logger.(¶®éÓøÿÿÿÿ8ïÀçÇˆ+
+Qsquid:S1141S"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<squid:S1166V"%Either log or rethrow this exception.(©¹ùõ
+<squid:S1166Y"%Either log or rethrow this exception.(´ú§â
+Csquid:S1166_"%Either log or rethrow this exception.(”ı¾8£àÇˆ+
+^squid:S1192)"GDefine a constant instead of duplicating this literal "apiKey" 7 times.(âÌª£
+Rsquid:S1854#";Remove this useless assignment to local variable "request".(‰“€
+…squid:S11518"iReduce this switch case number of lines from 7 to at most 5, for example by extracting code into methods.(ÛÌ·…ûÿÿÿÿ
+Œ squid:MethodCyclomaticComplexity"`The Cyclomatic Complexity of this method "processURI" is 14 which is greater than 10 authorized.(İ¸Û«
+<squid:S1166\"%Either log or rethrow this exception.(ï­£Ä
+€squid:S1151@"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(Û˜·û
+<squid:S1166d"%Either log or rethrow this exception.(óûìœ
+]
+squid:S106`";Replace this usage of System.out or System.err by a logger.(úù­Äşÿÿÿÿ8üüùÇˆ+
+]squid:S1192W"FDefine a constant instead of duplicating this literal " API." 4 times.(³»À¦
+Q
+squid:S106H";Replace this usage of System.out or System.err by a logger.(¤Ãİ
+€squid:S1151/"iReduce this switch case number of lines from 8 to at most 5, for example by extracting code into methods.(äõŒ…
+Ssquid:S1854 "7Remove this useless assignment to local variable "url".(‹í‰–ÿÿÿÿÿ
+Xsquid:S1854$"<Remove this useless assignment to local variable "response".(Òø±¾şÿÿÿÿ
+Qsquid:S1854"":Remove this useless assignment to local variable "client".(åßæ±

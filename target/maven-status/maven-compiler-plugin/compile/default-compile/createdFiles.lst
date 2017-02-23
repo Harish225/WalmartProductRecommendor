@@ -1,0 +1,12 @@
+com/myproject/productrecommendor/model/Product.class
+com/myproject/productrecommendor/serviceImpl/RankedProductsRecommendorImpl.class
+com/myproject/productrecommendor/constants/Constants.class
+com/myproject/productrecommendor/user/UserSearch.class
+com/myproject/productrecommendor/service/ProductSearchService.class
+com/myproject/productrecommendor/service/ProductRecommendationsService.class
+com/myproject/productrecommendor/service/ProductReviewsService.class
+com/myproject/productrecommendor/serviceImpl/RankedProductsRecommendor.class
+com/myproject/productrecommendor/utilities/JSONProcessor.class
+com/myproject/productrecommendor/exception/CustomException.class
+com/myproject/productrecommendor/utilities/APIDataAccess.class
+com/myproject/productrecommendor/service/ProductReviewsService$1.class

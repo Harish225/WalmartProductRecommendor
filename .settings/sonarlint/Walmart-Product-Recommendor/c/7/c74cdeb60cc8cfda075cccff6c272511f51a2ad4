@@ -1,0 +1,14 @@
+
+Asquid:S1166?"%Either log or rethrow this exception.(ª¼áÄøÿÿÿÿ
+Q
+squid:S106M";Replace this usage of System.out or System.err by a logger.(…‚¦À
+¨ squid:MethodCyclomaticComplexity"uThe Cyclomatic Complexity of this method "invokeProductRecommendationsAPI" is 15 which is greater than 10 authorized.(©ÓÔ‚8ŸÓ„æˆ+
+Rsquid:S1147N";Remove this call to "exit" or ensure it is really required.(¯á
+¥squid:S2293/"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(ç’“¹
+<squid:S1166B"%Either log or rethrow this exception.(”ı¾
+W
+squid:S106L";Replace this usage of System.out or System.err by a logger.(ÅıÔp8ÖÅÆÇˆ+
+d
+squid:S1341"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ı¿¢©
+Qsquid:S1141*"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S1166K"%Either log or rethrow this exception.(Ş¹ô©şÿÿÿÿ

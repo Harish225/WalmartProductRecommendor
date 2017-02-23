@@ -1,0 +1,22 @@
+
+¥squid:S2293+"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(“ÙÀÉ
+i
+squid:S1341"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ùØÔùÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ø­‡ûÿÿÿÿ
+V
+squid:S106"";Replace this usage of System.out or System.err by a logger.(’É¯èúÿÿÿÿ
+esquid:S1854+"NRemove this useless assignment to local variable "productRecommendationsList".(“ÙÀÉ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(ƒı²
+_squid:S11924"IDefine a constant instead of duplicating this literal " keyword" 3 times.(Ä”Ö	
+Q
+squid:S1062";Replace this usage of System.out or System.err by a logger.(şŸ•ä
+Q
+squid:S1067";Replace this usage of System.out or System.err by a logger.(†µ²…
+P
+squid:S1064";Replace this usage of System.out or System.err by a logger.(Ä”Ö	
+Q
+squid:S106=";Replace this usage of System.out or System.err by a logger.(ÏŠÃ¨
+V
+squid:S106:";Replace this usage of System.out or System.err by a logger.(õ›óÎüÿÿÿÿ
+<squid:S1166!"%Either log or rethrow this exception.(ï­£Ä

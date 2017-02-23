@@ -1,0 +1,17 @@
+
+P
+squid:S106d";Replace this usage of System.out or System.err by a logger.(ÀÒÜ~
+;squid:S2095."Close this "InputStreamReader".(òÌ¢úÿÿÿÿ
+Asquid:S1166b"%Either log or rethrow this exception.(Ş¹ô©şÿÿÿÿ
+Rsquid:S1147e";Remove this call to "exit" or ensure it is really required.(¯á
+‘ squid:MethodCyclomaticComplexity"fThe Cyclomatic Complexity of this method "invokeReviewsAPI" is 13 which is greater than 10 authorized.(¸èb
+Qsquid:S1141,"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Asquid:S1166@"%Either log or rethrow this exception.(ª¼áÄøÿÿÿÿ
+xsquid:S11925"UDefine a constant instead of duplicating this literal "averageOverallRating" 3 times.(ƒ§˜ıÿÿÿÿ8»Œæˆ+
+Q
+squid:S106c";Replace this usage of System.out or System.err by a logger.(œß‚ú
+bsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(ì˜ÒÏ
+xsquid:S1604M"\Make this anonymous inner class a lambda (sonar.java.source not set. Assuming 8 or greater.)(Å…×ùÿÿÿÿ
+i
+squid:S134,"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+<squid:S1166C"%Either log or rethrow this exception.(”ı¾
